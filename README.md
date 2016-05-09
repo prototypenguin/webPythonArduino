@@ -15,3 +15,7 @@ Here is what you will need:
   - Webpy
   - Arduino
   - ChartJS
+
+Feel free to contact me if you've got any question, I will try to reply as fast as I can.
+
+Thank you!
