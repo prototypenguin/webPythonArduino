@@ -17,8 +17,9 @@ class index:
         co = com.testco("A")
         diff = com.strval("B")
         mlistes = getdata.listes()
-        p1res = mlistes.make(13,"C",1,p1reslist)
-        p2res = mlistes.make(13,"D",1,p2reslist)
+        p1res = mlistes.make(13,"C",p1reslist)
+        p2res = mlistes.make(13,"D",p2reslist)
+        pos = com.strval("D")
         
         return render.index(paref, co, diff, p1res, p2res)
         
