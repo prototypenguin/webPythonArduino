@@ -19,9 +19,9 @@ class index:
         mlistes = getdata.listes()
         p1res = mlistes.make(13,"C",p1reslist)
         p2res = mlistes.make(13,"D",p2reslist)
-        pos = com.strval("D")
+        pos = com.strval("E")
         
-        return render.index(paref, co, diff, p1res, p2res)
+        return render.index(paref, pos, co, diff, p1res, p2res)
         
 if __name__ == "__main__": 
     app = web.application(urls, globals())
