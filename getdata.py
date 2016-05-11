@@ -6,7 +6,7 @@ class listes(object):
     
     def make(self, lmax, char, liste): 
         """Takes the folliwing parametres and appends taken values to the list:
-            lmax: max list lenth
+            lmax: max list length
             char: must be equal to the IF-'CHAR' on Arduino, CHAR been a letter from A to Z
             liste: predefined global list on main.py
         """
