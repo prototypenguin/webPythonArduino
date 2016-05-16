@@ -9,6 +9,7 @@ What you will need to make the code work:
   - Webpy
   - Linux
   - Network Connection
+  - Arduino
 
 I plan adding a detailed tutorial soon.
 
