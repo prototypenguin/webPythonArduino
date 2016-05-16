@@ -10,7 +10,7 @@ com = getdata.talk()
 class index:
 
     def GET(self):
-        co = com.getstrval("A")
+        co = com.get_str_val("A")
         
         return render.index(co)
         
