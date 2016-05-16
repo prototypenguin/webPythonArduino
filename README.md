@@ -1,21 +1,13 @@
 # webPythonArduino
-Show values from Arduino with Python using webpy
-
 Hello,
 
-The code is very basic. It was built to be simple.
+With this code you will be able to easely get data from and Arduino and display it on a webpage using Webpy.
+The code should be self explainatory it you already have basic Python knowledge. If you got any questions I will be happy to answer, just contact me!
 
-I built the code to display values from photoresistors plugged into an Arduino on a simple webpage with webpy then draw a graph with the values using ChartJS. 
-
-If you already know Python, I'm sure that there are better ways to built the code, dont forget, it was built to be simple and basic.Along with several friends, I was given a project at school, to build a simple solar tracker and eventually be able to get all possible values to be available on our local network. Turns out some of the other projects also need to display values on a webpage.Seen as most of my classmates cant code, so I bult this and decide to post it on github for other to use as well. Feel free to edit as you need!
-
-Here is what you will need:
-  - Linux (I haven't tested on windows )
+What you will need to make the code work:
   - Python
   - Webpy
-  - Arduino
-  - ChartJS
+  - Linux
+  - Network Connection
 
-Feel free to contact me if you've got any question, I will try to reply as fast as I can.
-
-Thank you!
+I plan adding a detailed tutorial soon.
