@@ -11,3 +11,5 @@ What you will need to make the code work:
   - Network Connection
 
 I plan adding a detailed tutorial soon.
+
+Here is an example of a school project using the code: https://github.com/prototypenguin/SolarTracker
