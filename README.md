@@ -13,4 +13,4 @@ What you will need to make the code work:
 
 I plan adding a detailed tutorial soon.
 
-Here is an example of a school project using the code: https://github.com/prototypenguin/SolarTracker
+Here is an example of a school project using the code: https://github.com/sergioncp/SolarTracker
